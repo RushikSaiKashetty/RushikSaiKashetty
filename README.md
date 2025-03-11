@@ -2,7 +2,7 @@
 ### 📊 Data Analyst | 📷 Photographer 
 #### Welcome to my GitHub! I'm a data analyst in the workforce solutions industry, passionate about transforming raw data into meaningful insights. When I'm not analyzing trends and building dashboards, I express creativity through photography.
 ---
-### Tech Stack and Tools 
+###  🔨 Tech Stack and Tools 
 #### 📌 **Languages:** Python | SQL | R 
 #### 📌 **Data Visualization:** PowerBI | Tableau | Looker
 #### 📌 **Databases:** MySQL | PostgreSQL | Snowflake 
